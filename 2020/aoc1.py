@@ -16,4 +16,4 @@ for n in range(len(array)):
 
 
 print("1 answer : " + str(answer1))
-print("1 answer : " + str(answer2))
+print("2 answer : " + str(answer2))
